@@ -12,7 +12,7 @@
 * **JavaScript** - ReactJS, ExpressJS, VueJs, 
 * **Frameworks** - BootStrap, MaterializeCSS, TailwindCSS
 * **MarkUp & Stylesheets** - Html5, CSS3, SASS, SCSS, 
-* **ServerSide** -  NodeJS, 
+* **ServerSide** -  NodeJS, NextJS , Laravel
 * **Technologies** - Git, Github, Cypress, VS-Code
 * **DataBases** - SQL, MySQL, MySQlite, MongoDB, 
 
