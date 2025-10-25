@@ -25,5 +25,5 @@
 
 ##### ContactMe 
 
-* Email Address: richeymikelo@gmail.com
+* Email Address: okohmichaelr@gmail.com
 * LinkedIn Profile: https://www.linkedin.com/in/richey-okoh-michael-a25302184/
